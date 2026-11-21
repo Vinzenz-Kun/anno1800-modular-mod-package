@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" GUID="1010000" Path="/Values/EconomyFeature7/MetropolisFactor/ConfigPerPopulation/Item">
+    <EffectPerInterval>0</EffectPerInterval>
+    <EffectMaximum>0</EffectMaximum>
+  </ModOp>
+</ModOps>

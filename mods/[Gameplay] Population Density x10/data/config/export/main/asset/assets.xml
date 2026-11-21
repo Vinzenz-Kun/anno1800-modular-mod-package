@@ -1,0 +1,810 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" GUID="1010343" Path="/Values/Residence7">
+    <ResidentMax>100</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="1010344" Path="/Values/Residence7">
+    <ResidentMax>200</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="1010345" Path="/Values/Residence7">
+    <ResidentMax>300</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="1010346" Path="/Values/Residence7">
+    <ResidentMax>400</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="1010347" Path="/Values/Residence7">
+    <ResidentMax>500</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="101254" Path="/Values/Residence7">
+    <ResidentMax>100</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="101255" Path="/Values/Residence7">
+    <ResidentMax>200</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120020']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010200']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010237']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010235']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010239']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='133183']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='535']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='536']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='2524']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010203']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5383']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114364']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120020']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010200']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010237']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010238']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010213']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010203']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010351']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010257']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010245']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='25506']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='535']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='536']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='2524']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010193']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5803']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114414']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010238']">
+    <SupplyWeight>60</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010213']">
+    <SupplyWeight>60</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010203']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010351']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010217']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010206']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010247']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010353']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010197']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010201']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='117702']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='535']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='536']">
+    <SupplyWeight>60</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='2524']">
+    <SupplyWeight>140</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5803']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5388']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5391']">
+    <SupplyWeight>70</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010217']">
+    <SupplyWeight>120</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010206']">
+    <SupplyWeight>60</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010247']">
+    <SupplyWeight>60</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010353']">
+    <SupplyWeight>60</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120030']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120032']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010354']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010208']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135108']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135186']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135107']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135230']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135109']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135233']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010203']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010258']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='133181']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='535']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='536']">
+    <SupplyWeight>70</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='2524']">
+    <SupplyWeight>150</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='6600']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5382']">
+    <SupplyWeight>60</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5397']">
+    <SupplyWeight>70</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120030']">
+    <SupplyWeight>160</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120032']">
+    <SupplyWeight>80</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010354']">
+    <SupplyWeight>80</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010208']">
+    <SupplyWeight>80</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120016']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010259']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010258']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010225']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135108']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135186']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135229']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135234']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135107']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135230']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135232']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135233']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135109']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135231']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135816']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135876']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135877']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135878']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135879']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135880']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135881']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135882']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135883']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135884']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135885']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135886']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135887']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135888']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135889']">
+    <SupplyWeight>1000</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010209']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='112695']">
+    <SupplyWeight>60</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114404']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='535']">
+    <SupplyWeight>80</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='536']">
+    <SupplyWeight>120</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='2524']">
+    <SupplyWeight>250</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5388']">
+    <SupplyWeight>70</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5395']">
+    <SupplyWeight>100</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5392']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120020']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='25546']">
+    <SupplyWeight>70</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120033']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120043']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010216']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='25506']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010237']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120044']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114367']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='535']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='536']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='2524']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5803']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='6265']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5830']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120020']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='25546']">
+    <SupplyWeight>70</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120033']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120043']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120035']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='25506']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='25131']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120032']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120037']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010206']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120030']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135230']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='117698']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='535']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='536']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='2524']">
+    <SupplyWeight>70</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='6265']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5831']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5391']">
+    <SupplyWeight>60</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112091" Path="/Values/Residence7">
+    <ResidentMax>100</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="112652" Path="/Values/Residence7">
+    <ResidentMax>200</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114890']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='112705']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='112702']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010213']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010234']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='535']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='536']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='2524']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='25506']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114890']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='112705']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='112702']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='112693']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010217']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='112703']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010257']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010222']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='535']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='536']">
+    <SupplyWeight>60</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='2524']">
+    <SupplyWeight>100</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='6600']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5390']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114436" Path="/Values/Residence7">
+    <ResidentMax>100</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="114437" Path="/Values/Residence7">
+    <ResidentMax>200</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="114445" Path="/Values/Residence7">
+    <ResidentMax>1200</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120020']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114371']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114401']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114359']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114356']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010192']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120043']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010217']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='25506']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='133183']">
+    <SupplyWeight>10</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120020']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114371']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114401']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114359']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='118724']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114410']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='117698']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='117699']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010240']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010206']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='112697']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010203']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5383']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5386']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010353']">
+    <SupplyWeight>120</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010217']">
+    <SupplyWeight>190</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114430']">
+    <SupplyWeight>230</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010354']">
+    <SupplyWeight>120</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114410']">
+    <SupplyWeight>220</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114431']">
+    <SupplyWeight>200</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114425']">
+    <SupplyWeight>120</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='535']">
+    <SupplyWeight>100</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='536']">
+    <SupplyWeight>150</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='2524']">
+    <SupplyWeight>250</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010232']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='4267']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='4268']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5392']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5395']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5391']">
+    <SupplyWeight>70</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601445" Path="/Values/Residence7">
+    <ResidentMax>5000</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='133891']">
+    <SupplyWeight>450</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010213']">
+    <SupplyWeight>550</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='133573']">
+    <SupplyWeight>250</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='132751']">
+    <SupplyWeight>250</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='133183']">
+    <SupplyWeight>350</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='132755']">
+    <SupplyWeight>550</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='133181']">
+    <SupplyWeight>1050</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='132754']">
+    <SupplyWeight>750</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='132761']">
+    <SupplyWeight>800</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010248']">
+    <SupplyWeight>170</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120037']">
+    <SupplyWeight>150</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='114428']">
+    <SupplyWeight>220</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='6600']">
+    <SupplyWeight>200</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5382']">
+    <SupplyWeight>250</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5388']">
+    <SupplyWeight>260</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="601888" Path="/Values/Residence7">
+    <ResidentMax>600</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="601889" Path="/Values/Residence7">
+    <ResidentMax>800</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="601890" Path="/Values/Residence7">
+    <ResidentMax>1000</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="601882" Path="/Values/Residence7">
+    <ResidentMax>750</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="601883" Path="/Values/Residence7">
+    <ResidentMax>1000</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="601884" Path="/Values/Residence7">
+    <ResidentMax>1250</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="601886" Path="/Values/Residence7">
+    <ResidentMax>1500</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="601891" Path="/Values/Residence7">
+    <ResidentMax>1750</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="406" Path="/Values/Residence7">
+    <ResidentMax>25000</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="24792" Path="/Values/Residence7">
+    <ResidentMax>200</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="24793" Path="/Values/Residence7">
+    <ResidentMax>300</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="5405" Path="/Values/Residence7">
+    <ResidentMax>400</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="6086" Path="/Values/Residence7">
+    <ResidentMax>300</ResidentMax>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120035']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010206']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120032']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120037']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5803']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='6600']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5381']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='6265']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5388']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5395']">
+    <SupplyWeight>30</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='5391']">
+    <SupplyWeight>50</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010208']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120016']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='135232']">
+    <SupplyWeight>20</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='117699']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='535']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='536']">
+    <SupplyWeight>70</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='2524']">
+    <SupplyWeight>120</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='120030']">
+    <SupplyWeight>200</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010354']">
+    <SupplyWeight>200</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='1010250']">
+    <SupplyWeight>60</SupplyWeight>
+  </ModOp>
+  <ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product='133532']">
+    <SupplyWeight>40</SupplyWeight>
+  </ModOp>
+</ModOps>

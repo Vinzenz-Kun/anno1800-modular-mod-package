@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" GUID="601326" Path="/Values/BusStop">
+    <ActivationRadius>2048</ActivationRadius>
+    <StreetConnectionRange>2048</StreetConnectionRange>
+  </ModOp>
+  <ModOp Type="merge" GUID="132780,132747,132750,133339,133340,133341,132781,132752,133342,133343,133345,133346,132782,132753,133347,133348,133349,133350,133928,133930,133931,133932,133933,132770,6136,6137,6138" Path="/Values/BuffFactory">
+    <ProductionBuffScope>Radius</ProductionBuffScope>
+    <ProductionBuffDistance>2048</ProductionBuffDistance>
+  </ModOp>
+  <ModOp Type="merge" GUID="133891,133573,132751,601485,134781,133535,355,132755,134257,133536,132754,132761,137757" Path="/Values/Product">
+    <BusDistancePenalty>1</BusDistancePenalty>
+  </ModOp>
+  <ModOp Type="merge" GUID="132751,132754,132755,133573,601485,133535,355" Path="/Values/Product">
+    <MinBusDistance>2048</MinBusDistance>
+    <MaxBusDistance>2049</MaxBusDistance>
+  </ModOp>
+</ModOps>

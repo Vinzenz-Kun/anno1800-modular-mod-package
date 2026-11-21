@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="remove" Condition="#vinzenz_inselkontor_auffuellen" AllowNoMatch="1" GUID="2001271" Path="/Values/GUIConfig/KeyBindings/Item[Text='2001000380']" />
+  <ModOp Type="add" GUID="2001271" Path="/Values/GUIConfig/KeyBindings">
+    <Item>
+      <KeyTypes>Shift;F9</KeyTypes>
+      <Command>(function() if not ts.GameSetup.IsMultiPlayerGame and ts.Area.Current.IsOwnedByCurrentParticipant then ts.Area.Current.Economy.AddAmount(500) end end)()</Command>
+      <Active>Session</Active>
+      <AvailableOnPlatforms>PC</AvailableOnPlatforms>
+      <Text>2141200000</Text>
+      <Configurable>1</Configurable>
+    </Item>
+  </ModOp>
+  <ModOp Type="remove" GUID="2001271" Path="/Values/GUIConfig/KeyBindings/Item[KeyTypes='Shift;F10' and Text='2001000381']" AllowNoMatch="1" />
+  <ModOp Type="add" GUID="2001271" Path="/Values/GUIConfig/KeyBindings">
+    <Item>
+      <KeyTypes>Shift;F10</KeyTypes>
+      <Command>(function() if ts.GameSetup.IsMultiPlayerGame or not ts.Selection.Object.IsOwnedByCurrentParticipant then return end local ships={[720]=true,[968]=true,[1058]=true,[1059]=true,[1060]=true,[1537]=true,[1654]=true,[1655]=true,[1733]=true,[1734]=true,[1735]=true,[1736]=true,[1737]=true,[1755]=true,[7076]=true,[7080]=true,[7995]=true,[15835]=true,[24817]=true,[100237]=true,[100437]=true,[100438]=true,[100439]=true,[100440]=true,[100441]=true,[100442]=true,[100443]=true,[100679]=true,[100853]=true,[101121]=true,[101151]=true,[101153]=true,[101198]=true,[101199]=true,[101206]=true,[101321]=true,[101387]=true,[102237]=true,[102238]=true,[102319]=true,[102398]=true,[102403]=true,[102425]=true,[102428]=true,[102455]=true,[102577]=true,[102578]=true,[102579]=true,[102580]=true,[102581]=true,[102582]=true,[102583]=true,[102584]=true,[102585]=true,[102586]=true,[102587]=true,[102588]=true,[102589]=true,[102590]=true,[102591]=true,[102592]=true,[102593]=true,[102594]=true,[102875]=true,[103142]=true,[103143]=true,[103144]=true,[103157]=true,[103186]=true,[103188]=true,[103206]=true,[103207]=true,[103226]=true,[103227]=true,[103243]=true,[103244]=true,[103245]=true,[103246]=true,[103287]=true,[103288]=true,[103289]=true,[103290]=true,[103291]=true,[103292]=true,[103293]=true,[103294]=true,[103295]=true,[103296]=true,[103297]=true,[103298]=true,[103299]=true,[103300]=true,[103682]=true,[103723]=true,[104563]=true,[104564]=true,[104565]=true,[104566]=true,[104567]=true,[104568]=true,[104569]=true,[104570]=true,[104571]=true,[105520]=true,[105538]=true,[105575]=true,[110688]=true,[111877]=true,[111881]=true,[114166]=true,[119093]=true,[119094]=true,[119095]=true,[119232]=true,[119903]=true,[131012]=true,[132091]=true,[132094]=true,[132404]=true,[132706]=true,[133226]=true,[143706]=true,[143763]=true,[143764]=true,[143875]=true,[144085]=true,[144195]=true,[144196]=true,[1010062]=true,[2141400000]=true,[2141400001]=true,[2141400002]=true,[2141400003]=true,[2141400004]=true,[2141400010]=true,[2141400011]=true,[2141400012]=true,[2141400013]=true,[2141400014]=true} if not ships[ts.Selection.Object.GetGUID()] then return end local roster={2141000050,2141000052,2141000140,2141000142,2141000150,2141000090,2141000080,2141000100,2141000070,2141000060,2141000030,2141000020,2141000040,2141000010,2141000000,2141000130,2141000120,2141000110,2001000350,1400000031,2001000107,191470,113800,125132,125114,2001000100,2001000102,2001000104,1400000005,191608,1743000015,2100119209,2000010023,2000010030,2000010044,2000010024,2000010049,2100119191} local i=VinzenzFleetDelivery or 1 for n=1,#roster do local g=roster[i] i=i%#roster+1 local ok,id=pcall(function() return ts.GetAssetData(g).Guid end) if ok and id==g then ts.Selection.Object.ItemContainer.SetCheatItemInSlot(g,1) VinzenzFleetDelivery=i return end end end)()</Command>
+      <Active>Session</Active>
+      <AvailableOnPlatforms>PC</AvailableOnPlatforms>
+      <Text>2141200090</Text>
+      <Configurable>1</Configurable>
+    </Item>
+  </ModOp>
+</ModOps>

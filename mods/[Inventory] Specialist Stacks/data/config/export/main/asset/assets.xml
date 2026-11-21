@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" Path="//Asset[Values/Item/ItemType='Specialist' or Template='ShipSpecialist']/Values">
+    <Item>
+      <MaxStackSize>50</MaxStackSize>
+    </Item>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" GUID="1010263,1010264,100654,100655,1010330,112676,112682" Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>4</StorageAmount>
+  </ModOp>
+  <ModOp Type="merge" GUID="1010262,1010331,1010332,1010333,101251,101269,101270,114448,114447,114450,114451,114452,114439,114456,25005,25009,25020,25128" Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>8</StorageAmount>
+  </ModOp>
+  <ModOp Type="merge" GUID="1010265,1010267,1010269,1010329,101263,101272,114453,24798,25003,25006,25019,5457,5463,5814,24658" Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>16</StorageAmount>
+  </ModOp>
+  <ModOp Type="merge" GUID="133496,133004,133030,133031,134614,135088,135085" Path="/Values/FactoryBase/FactoryOutputs/Item">
+    <StorageAmount>40</StorageAmount>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141000150</GUID>
+      <Text>Jack of All Ships</Text>
+    </Text>
+    <Text>
+      <GUID>2141000151</GUID>
+      <Text>Unlocks specialist shipbuilding plans at shipyards in range.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

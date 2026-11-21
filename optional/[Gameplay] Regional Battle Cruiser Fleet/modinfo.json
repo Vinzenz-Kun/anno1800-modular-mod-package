@@ -1,0 +1,46 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-regional-starting-cruisers",
+  "Version": "1.2.0",
+  "ModName": {
+    "English": "[Gameplay] Regional Battle Cruiser Fleet"
+  },
+  "CreatorName": "Vinzenz",
+  "Description": {
+    "English": "Five battle cruisers start with four ship specialists equipped and eight cargo holds filled with regional specialists and construction supplies."
+  },
+  "ModDependencies": [
+    "vinzenz-specialist-agriculture",
+    "vinzenz-specialist-agriculture-grand-fields",
+    "vinzenz-specialist-needs-arctic",
+    "vinzenz-specialist-needs-enbesa",
+    "vinzenz-specialist-needs-harbour",
+    "vinzenz-specialist-needs-new-world",
+    "vinzenz-specialist-needs-old-world",
+    "vinzenz-specialist-production-arctic",
+    "vinzenz-specialist-production-enbesa",
+    "vinzenz-specialist-production-harbour",
+    "vinzenz-specialist-production-new-world",
+    "vinzenz-specialist-production-old-world",
+    "vinzenz-specialist-ship-cargo",
+    "vinzenz-specialist-ship-combat",
+    "vinzenz-specialist-ship-expedition"
+  ],
+  "LoadAfterIds": [
+    "vinzenz-specialist-agriculture",
+    "vinzenz-specialist-agriculture-grand-fields",
+    "vinzenz-specialist-needs-arctic",
+    "vinzenz-specialist-needs-enbesa",
+    "vinzenz-specialist-needs-harbour",
+    "vinzenz-specialist-needs-new-world",
+    "vinzenz-specialist-needs-old-world",
+    "vinzenz-specialist-production-arctic",
+    "vinzenz-specialist-production-enbesa",
+    "vinzenz-specialist-production-harbour",
+    "vinzenz-specialist-production-new-world",
+    "vinzenz-specialist-production-old-world",
+    "vinzenz-specialist-ship-cargo",
+    "vinzenz-specialist-ship-combat",
+    "vinzenz-specialist-ship-expedition"
+  ]
+}

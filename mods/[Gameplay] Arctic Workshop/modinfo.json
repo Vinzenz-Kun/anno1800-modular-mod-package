@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-arctic-workshop",
+  "ModName": {
+    "English": "[Gameplay] Affordable Arctic crafting"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Choose this module to make a small Arctic salvage haul go further. Old Nate\u2019s Arctic workshop charges one ton of each listed ingredient for each of its thirty standard recipes."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-legacy-lodge-portraits",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Legacy] Aput's Lodge Portrait"
+  },
+  "Category": {
+    "English": "Compatibility"
+  },
+  "Description": {
+    "English": "I wanted players returning to an older Arctic settlement to recognise Aput in their Lodge again. You can use this portrait repair with the original Arctic Lodge Specialists, even if you skip every gameplay cheat in the collection."
+  },
+  "CreatorName": "Vinzenz",
+  "LoadAfterIds": [
+    "vinzenz_arctic_lodge_specialists"
+  ]
+}

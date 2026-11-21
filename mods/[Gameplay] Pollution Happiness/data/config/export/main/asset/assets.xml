@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" GUID="141576" Path="/Values/HappinessFeature/Pollution">
+    <HappinessWithoutPollution>5</HappinessWithoutPollution>
+    <HappinessWithMaxPollution>5</HappinessWithMaxPollution>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" GUID="1010516,100415,100586,101284,101285,101286,112678,117858,117859,117860,601470" Path="/Values/ItemContainer">
+    <SocketScope>Area</SocketScope>
+  </ModOp>
+</ModOps>

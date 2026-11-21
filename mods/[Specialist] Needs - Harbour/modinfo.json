@@ -1,0 +1,15 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-specialist-needs-harbour",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Specialist] Marina Wells, the Harbour Steward"
+  },
+  "Category": {
+    "English": "Specialists"
+  },
+  "Description": {
+    "English": "I wanted a single harbour posting for players who enjoy building a port more than keeping its residents supplied. Marina can take over most household deliveries within reach of her office in any of the four regions.\n\nFulfils unlocked basic, luxury and enabled lifestyle needs, raises happiness by 25 and doubles residence capacity."
+  },
+  "CreatorName": "Vinzenz"
+}

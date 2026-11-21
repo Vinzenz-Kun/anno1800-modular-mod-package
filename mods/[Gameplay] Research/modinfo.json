@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-research",
+  "ModName": {
+    "English": "[Gameplay] Affordable, fast research"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Try more Institute developments in a single play session. The Research Institute develops items and major discoveries in five to sixty seconds, depending on assigned workforce."
+  }
+}

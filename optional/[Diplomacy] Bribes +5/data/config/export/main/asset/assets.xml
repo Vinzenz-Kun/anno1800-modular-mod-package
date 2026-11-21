@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModOps>
+  <ModOp Type="merge" GUID="11,47,48,73,76,79,80,81,82,83,84,85,220" Path="/Values/Diplomacy/RepeatableActionBalancing/Actions/Gift">
+    <ForgettingTime>1000</ForgettingTime>
+  </ModOp>
+  <ModOp Type="merge" GUID="11,47,48,73,76,79,80,81,82,83,84,85,220" Path="/Values/Diplomacy/RepeatableActionBalancing/Actions/Gift/Subdivisions/Item">
+    <SuccessChance>100</SuccessChance>
+    <ReputationGain>5</ReputationGain>
+    <ReputationLoss>0</ReputationLoss>
+  </ModOp>
+</ModOps>

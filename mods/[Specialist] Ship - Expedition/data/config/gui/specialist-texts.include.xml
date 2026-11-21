@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141000110</GUID>
+      <Text>Dr Rowan Pike, Expedition Polymath</Text>
+    </Text>
+    <Text>
+      <GUID>2141000111</GUID>
+      <Text>Adds 100 morale, 100 points in all eight expedition disciplines and eleven character perks.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

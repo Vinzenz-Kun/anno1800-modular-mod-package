@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-shipbuilding",
+  "ModName": {
+    "English": "[Gameplay] Instant ship construction"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Move directly from paying for a ship to putting it into service. Buildable ships and airships complete on the next production tick once the yard has accepted the order."
+  }
+}

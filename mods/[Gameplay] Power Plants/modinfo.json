@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-power-plants",
+  "ModName": {
+    "English": "[Gameplay] Power plant range and fuel storage"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Run distant districts from a shared power station with more room for fuel. Power plants supply electricity along 2,048 road units. Each fuel-consuming plant holds 500 tons per fuel input."
+  }
+}

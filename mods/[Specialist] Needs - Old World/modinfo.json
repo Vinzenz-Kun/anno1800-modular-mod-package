@@ -1,0 +1,15 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-specialist-needs-old-world",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Specialist] Evelyn Reed, the Borough Steward"
+  },
+  "Category": {
+    "English": "Specialists"
+  },
+  "Description": {
+    "English": "I made Evelyn for players who want to keep building an Old World city after the shopping lists become the hardest part. She can supply a district of workers, scholars or tourists, so you choose where delivery routes still matter.\n\nFulfils unlocked basic, luxury and enabled lifestyle needs, raises happiness by 25 and doubles residence capacity."
+  },
+  "CreatorName": "Vinzenz"
+}

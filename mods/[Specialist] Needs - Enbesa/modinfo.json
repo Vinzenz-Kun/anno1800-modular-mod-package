@@ -1,0 +1,15 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-specialist-needs-enbesa",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Specialist] Tadesse, Steward of the Highlands"
+  },
+  "Category": {
+    "English": "Specialists"
+  },
+  "Description": {
+    "English": "I wanted an Enbesan town to be able to grow even when its supply of everyday goods falls behind. Tadesse puts that choice in the Town Hall, so other settlements can still depend on their farms and workshops.\n\nFulfils unlocked basic, luxury and enabled lifestyle needs, raises happiness by 25 and doubles residence capacity."
+  },
+  "CreatorName": "Vinzenz"
+}

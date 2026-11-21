@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" Path="//Template/Properties/Maintenance">
+    <WorkforceAmountFactor>0</WorkforceAmountFactor>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,21 @@
+# [Specialist] Marina Wells, the Harbour Steward
+
+I wanted a single harbour posting for players who enjoy building a port more than keeping its residents supplied. Marina can take over most household deliveries within reach of her office in any of the four regions.
+
+This is one module in the Anno 1800 Modular Specialists Bundle. With the full collection enabled, even supplying a city and balancing its budget can become optional. Choose the changes you want for your save.
+
+Equip in a Harbourmaster's Office. Fulfils unlocked basic, luxury and enabled lifestyle needs, raises happiness by 25 and doubles residence capacity. Covers 144 distinct needs. Provides electricity to compatible buildings. Arctic heat is included among the residence needs. Gives +3 influence to affected buildings with an influence source. Reduces riot, illness and Arctic flu risk by 100% wherever those incidents exist. Public services can also be satisfied by a local staple supplied by the specialist. Tier unlocks and lifestyle activation still apply.
+
+## Availability
+
+Look for a legendary specialist at Eli Bleakworth's prison once legendary offers are unlocked. The bundle's optional trader and Research Institute modules add further acquisition routes.
+
+## Installation
+
+Copy the entire `[Specialist] Needs - Harbour` folder into Anno 1800's `mods` folder and enable it in the mod browser.
+
+## With thanks
+
+Thank you to taesanjung for the idea of having a specialist supply the luxuries a neighbourhood would otherwise need delivered. That was my starting point for the regional stewards. [Specialist All Luxury Goods Provided](https://www.nexusmods.com/anno1800/mods/76)
+
+I'm grateful to Alxx15 for exploring what higher residential capacity and more influence could do for a growing city. I brought those ideas together here so players could choose where to use them. Please visit the original [Population Density](https://www.nexusmods.com/anno1800/mods/60) and [Influence Boost](https://www.nexusmods.com/anno1800/mods/210) mods.

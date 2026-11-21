@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" GUID="193856" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs[not(Item/GUID='194008')]">
+    <Item>
+      <GUID>194008</GUID>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID="193856" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs[not(Item/GUID='194011')]">
+    <Item>
+      <GUID>194011</GUID>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID="193875" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs[not(Item/GUID='194011')]">
+    <Item>
+      <GUID>194011</GUID>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID="190914" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs[not(Item/GUID='118735')]">
+    <Item>
+      <GUID>118735</GUID>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID="190692" Path="/Values/ItemEffect/EffectTargets[not(Item/GUID='194008')]">
+    <Item>
+      <GUID>194008</GUID>
+    </Item>
+  </ModOp>
+</ModOps>

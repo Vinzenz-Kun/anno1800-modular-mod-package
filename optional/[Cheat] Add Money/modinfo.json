@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "ModID": "vinze_add_money",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Cheat] Add Money"
+  },
+  "Category": {
+    "English": "Cheat Tools"
+  },
+  "Description": {
+    "English": "Choose when your empire gets a cash injection. Shift + F11 adds one million coins."
+  }
+}

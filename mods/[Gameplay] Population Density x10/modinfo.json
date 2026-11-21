@@ -1,0 +1,12 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-population-density-10",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Gameplay] Population Density x10"
+  },
+  "Description": {
+    "English": "House ten times the usual residents by supplying their needs. Inspired by the earlier Population Density x10 mod."
+  },
+  "CreatorName": "Vinzenz"
+}

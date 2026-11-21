@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModOps>
+  <ModOp Type="add" GUID="2001271" Path="/Values/GUIConfig/KeyBindings">
+    <Item>
+      <KeyTypes>Shift;F11</KeyTypes>
+      <Command>(function() if not ts.GameSetup.IsMultiPlayerGame then ts.Economy.MetaStorage.AddAmount(1010017, 1000000) end end)()</Command>
+      <Active>Session</Active>
+      <AvailableOnPlatforms>PC</AvailableOnPlatforms>
+      <Text>2141200001</Text>
+      <Configurable>1</Configurable>
+    </Item>
+  </ModOp>
+</ModOps>

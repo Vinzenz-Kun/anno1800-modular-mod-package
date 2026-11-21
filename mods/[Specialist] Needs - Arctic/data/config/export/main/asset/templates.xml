@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="//Template[Name='GuildhouseItem']/Properties" Condition="//Template[Name='GuildhouseItem']/Properties[not(InfluenceSourceUpgrade)]">
+    <InfluenceSourceUpgrade />
+  </ModOp>
+</ModOps>

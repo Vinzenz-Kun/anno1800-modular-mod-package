@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" GUID="1010358,1010360,1010365,1010359,1010361,1010362,1010364,112128,1010372,101257,101258,101259,100767,114889,112684,114518,114519,114520,118736,24768,4260" Path="/Values/PublicService">
+    <FullSatisfactionDistance>2048</FullSatisfactionDistance>
+    <NoSatisfactionDistance>2049</NoSatisfactionDistance>
+  </ModOp>
+  <ModOp Type="merge" GUID="249947" Path="/Values/Palace">
+    <BaseStreetRange>2048</BaseStreetRange>
+  </ModOp>
+  <ModOp Type="merge" GUID="269602" Path="/Values/PalaceMinistry">
+    <RangeMultiplier>1</RangeMultiplier>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,15 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-specialist-needs-arctic",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Specialist] Sila, Keeper of the Hearth"
+  },
+  "Category": {
+    "English": "Specialists"
+  },
+  "Description": {
+    "English": "I made Sila for Arctic settlements that I wanted to keep alive through a missed delivery. Her Lodge can take over both supplies and heat, which makes surviving the cold a much smaller part of managing that settlement.\n\nFulfils unlocked basic, luxury and enabled lifestyle needs, raises happiness by 25 and doubles residence capacity."
+  },
+  "CreatorName": "Vinzenz"
+}

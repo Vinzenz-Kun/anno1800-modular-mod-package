@@ -1,0 +1,12 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-no-workforce",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Rules] No Workforce Requirements"
+  },
+  "Description": {
+    "English": "Operate buildings without employing workforce. Money and material upkeep still apply."
+  },
+  "CreatorName": "Vinzenz"
+}

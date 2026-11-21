@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" GUID="100780,117547,7399,5164,6006" Path="/Values/Powerplant">
+    <IndustrializationDistance>2048</IndustrializationDistance>
+  </ModOp>
+  <ModOp Type="merge" GUID="100780,117547,7399,5164,6006" Path="/Values/PublicService">
+    <FullSatisfactionDistance>2048</FullSatisfactionDistance>
+    <NoSatisfactionDistance>2049</NoSatisfactionDistance>
+  </ModOp>
+  <ModOp Type="merge" GUID="100780,117547,7399,5164" Path="/Values/FactoryBase/FactoryInputs/Item">
+    <StorageAmount>500</StorageAmount>
+  </ModOp>
+</ModOps>

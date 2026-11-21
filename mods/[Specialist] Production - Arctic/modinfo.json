@@ -1,0 +1,15 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-specialist-production-arctic",
+  "Version": "1.1.0",
+  "ModName": {
+    "English": "[Specialist] Jack of All Lodges"
+  },
+  "Category": {
+    "English": "Specialists"
+  },
+  "Description": {
+    "English": "I made Jack for the moment when a new Arctic settlement needs warm shelters, parkas and sleds all at once. Giving him his own Lodge slot lets you decide which settlement gets through that first winter so easily.\n\nProvides heat to compatible buildings. Every completed production cycle adds one ton of each of the 99 goods in the Arctic catalogue. Productivity +100%."
+  },
+  "CreatorName": "Vinzenz"
+}

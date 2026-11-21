@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141000034</GUID>
+      <Text>Arctic production and utility buildings</Text>
+    </Text>
+    <Text>
+      <GUID>2141000030</GUID>
+      <Text>Jack of All Lodges</Text>
+    </Text>
+    <Text>
+      <GUID>2141000031</GUID>
+      <Text>Provides heat to compatible buildings. Every completed production cycle adds one ton of each of the 99 goods in the Arctic catalogue. Productivity +100%.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

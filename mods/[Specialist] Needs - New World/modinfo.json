@@ -1,0 +1,15 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-specialist-needs-new-world",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Specialist] Ines Solano, the Community Steward"
+  },
+  "Category": {
+    "English": "Specialists"
+  },
+  "Description": {
+    "English": "I wanted the choice to grow a New World neighbourhood without continually adding deliveries as residents move up through the tiers. Give Ines a Town Hall slot wherever you want that relief.\n\nFulfils unlocked basic, luxury and enabled lifestyle needs, raises happiness by 25 and doubles residence capacity."
+  },
+  "CreatorName": "Vinzenz"
+}

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141000054</GUID>
+      <Text>Agricultural producers, woodland businesses, fisheries and Fuel Stations</Text>
+    </Text>
+    <Text>
+      <GUID>2141000050</GUID>
+      <Text>Robin Vale, the Field Naturalist</Text>
+    </Text>
+    <Text>
+      <GUID>2141000051</GUID>
+      <Text>Crop fields and animal pens are optional. +100% productivity, -100% required forest/free area and -50% workforce on compatible buildings. Adds one ton of each of 66 agricultural goods per completed cycle.</Text>
+    </Text>
+    <Text>
+      <GUID>2141000052</GUID>
+      <Text>Robin Vale, the Field Naturalist (Lodge)</Text>
+    </Text>
+    <Text>
+      <GUID>2141000053</GUID>
+      <Text>Arctic Lodge edition. Crop fields and animal pens are optional. +100% productivity, -100% required forest/free area and -50% workforce on compatible buildings. Adds one ton of each of 66 agricultural goods per completed cycle.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

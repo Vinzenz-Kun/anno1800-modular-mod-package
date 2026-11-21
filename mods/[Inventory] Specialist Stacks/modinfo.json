@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-inventory-specialist-stacks",
+  "ModName": {
+    "English": "[Inventory] Specialist stacks of 50"
+  },
+  "Description": {
+    "English": "When I ship the same specialist to several islands, I like to keep the spares in one cargo slot. This module lets up to 50 copies share a stack. You can use it with the game's normal traders and specialists."
+  },
+  "LoadAfterIds": [
+    "*"
+  ]
+}

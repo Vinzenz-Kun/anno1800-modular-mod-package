@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="//Template[Name='TownhallItem']/Properties" Condition="//Template[Name='TownhallItem']/Properties[not(IndustrializableUpgrade)]">
+    <IndustrializableUpgrade />
+  </ModOp>
+  <ModOp Type="add" Path="//Template[Name='TownhallItem']/Properties" Condition="//Template[Name='TownhallItem']/Properties[not(InfluenceSourceUpgrade)]">
+    <InfluenceSourceUpgrade />
+  </ModOp>
+</ModOps>

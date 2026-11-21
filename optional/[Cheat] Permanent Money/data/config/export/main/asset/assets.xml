@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModOps>
+  <ModOp Type="addNextSibling" GUID="130216">
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>2141200002</GUID>
+          <Name>Full Treasury Timer</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionTimer</Template>
+            <Values>
+              <Condition />
+              <ConditionTimer>
+                <TimeLimit>1000</TimeLimit>
+              </ConditionTimer>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionExecuteScript</Template>
+                <Values>
+                  <Action />
+                  <ActionExecuteScript>
+                    <ScriptFileName>data/scripts/vinze_full_treasury.lua</ScriptFileName>
+                  </ActionExecuteScript>
+                </Values>
+              </TriggerAction>
+            </Item>
+            <Item>
+              <TriggerAction>
+                <Template>ActionResetTrigger</Template>
+                <Values>
+                  <Action />
+                  <ActionResetTrigger />
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <AutoRegisterTrigger>1</AutoRegisterTrigger>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>

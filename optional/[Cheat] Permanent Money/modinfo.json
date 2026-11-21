@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "ModID": "vinze_permanent_money",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Cheat] Full Treasury"
+  },
+  "Category": {
+    "English": "Cheat Tools"
+  },
+  "Description": {
+    "English": "Refill the treasury automatically for a single-player building session with an open budget."
+  }
+}

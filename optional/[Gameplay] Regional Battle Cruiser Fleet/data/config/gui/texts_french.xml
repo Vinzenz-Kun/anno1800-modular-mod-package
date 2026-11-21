@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141400020</GUID>
+      <Text>Old World</Text>
+    </Text>
+    <Text>
+      <GUID>2141400021</GUID>
+      <Text>Cape Trelawney</Text>
+    </Text>
+    <Text>
+      <GUID>2141400022</GUID>
+      <Text>New World</Text>
+    </Text>
+    <Text>
+      <GUID>2141400023</GUID>
+      <Text>Arctic</Text>
+    </Text>
+    <Text>
+      <GUID>2141400024</GUID>
+      <Text>Enbesa</Text>
+    </Text>
+  </ModOp>
+</ModOps>

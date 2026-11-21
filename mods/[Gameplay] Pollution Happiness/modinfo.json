@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-pollution-happiness",
+  "ModName": {
+    "English": "[Gameplay] Pollution and happiness"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Choose this when you want a heavily industrialised island to keep the happiness bonus. Residents receive a positive five-point happiness contribution at both ends of the pollution scale."
+  }
+}

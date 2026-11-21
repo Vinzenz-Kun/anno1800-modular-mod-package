@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-royal-taxes",
+  "ModName": {
+    "English": "[Gameplay] No royal taxes"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Choose this for a large settlement that keeps its population tax income. Royal tax is zero for every population tier in the game\u2019s royal tax table."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Anno": 7,
+  "ModID": "vinze_island_refill",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Cheat] Island Storage Refill"
+  },
+  "Category": {
+    "English": "Cheat Tools"
+  },
+  "Description": {
+    "English": "Give an island an emergency delivery on demand. Shift + F9 adds up to 500 t of each available good."
+  },
+  "LoadAfterIds": [
+    "vinzenz_inselkontor_auffuellen"
+  ]
+}

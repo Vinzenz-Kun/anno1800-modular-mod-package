@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-fast-move-in",
+  "ModName": {
+    "English": "[Gameplay] Fast residential move-in"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Choose how quickly a newly supplied neighbourhood fills up. When a home has space and fulfilled needs, new residents move in at short intervals."
+  }
+}

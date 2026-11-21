@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141000014</GUID>
+      <Text>New World production and utility buildings</Text>
+    </Text>
+    <Text>
+      <GUID>2141000010</GUID>
+      <Text>Jack of Both Tropics</Text>
+    </Text>
+    <Text>
+      <GUID>2141000011</GUID>
+      <Text>Provides electricity to compatible buildings. Every completed production cycle adds one ton of each of the 113 goods in the New World catalogue. Productivity +100%.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

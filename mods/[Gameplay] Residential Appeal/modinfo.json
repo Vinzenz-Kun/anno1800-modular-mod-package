@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-residential-appeal",
+  "ModName": {
+    "English": "[Gameplay] Residential attractiveness"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Let the number of homes in a settlement contribute directly to its appeal. Each residence adds five attractiveness to its island, including shelters, quarters, hotels, skyscrapers and the Skyline Tower."
+  }
+}

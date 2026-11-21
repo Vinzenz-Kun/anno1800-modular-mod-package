@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141000004</GUID>
+      <Text>Old World production and utility buildings</Text>
+    </Text>
+    <Text>
+      <GUID>2141000000</GUID>
+      <Text>Jack of All Trades</Text>
+    </Text>
+    <Text>
+      <GUID>2141000001</GUID>
+      <Text>Provides electricity to compatible buildings. Every completed production cycle adds one ton of each of the 149 goods in the Old World catalogue. Productivity +100%.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-public-services",
+  "ModName": {
+    "English": "[Gameplay] Public services and palace range"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Use one service network across distant neighbourhoods and palace districts. Markets, public need providers, the Palace and Local Departments can serve distant neighbourhoods along connected roads."
+  }
+}

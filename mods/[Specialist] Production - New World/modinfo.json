@@ -1,0 +1,15 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-specialist-production-new-world",
+  "Version": "1.1.0",
+  "ModName": {
+    "English": "[Specialist] Jack of Both Tropics"
+  },
+  "Category": {
+    "English": "Specialists"
+  },
+  "Description": {
+    "English": "I wanted to build up a New World island without waiting for every specialist production line to come online. Jack brings the complete New World goods catalogue into each cycle, so you can choose which islands get that head start.\n\nProvides electricity to compatible buildings. Every completed production cycle adds one ton of each of the 113 goods in the New World catalogue. Productivity +100%."
+  },
+  "CreatorName": "Vinzenz"
+}

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" GUID="2001000104" Path="/Values/Standard" Condition="//Values[Standard/GUID='2001000104']/Standard[IconFilename='data/ui/2kimages/main/3dicons/specialists/systemic/icon_engineer_501.png']">
+    <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_900.png</IconFilename>
+  </ModOp>
+</ModOps>

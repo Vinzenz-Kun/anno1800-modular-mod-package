@@ -1,0 +1,18 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-specialist-agriculture",
+  "Version": "1.1.0",
+  "ModName": {
+    "English": "[Specialist] Robin Vale, the Field Naturalist"
+  },
+  "Category": {
+    "English": "Specialists"
+  },
+  "Description": {
+    "English": "I designed Robin for islands where one more plantation would swallow the last good piece of farmland. With Robin equipped, a crop or livestock farm can work from its main building alone.\n\nCrop fields and animal pens are optional. +100% productivity, -100% required forest/free area and -50% workforce on compatible buildings. Adds one ton of each of 66 agricultural goods per completed cycle."
+  },
+  "CreatorName": "Vinzenz",
+  "ModDependencies": [
+    "vinzenz-rules-free-fertility"
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" GUID="1010519,101278,112670,117870,601463" Path="/Values/Warehouse">
+    <WarehouseStorage>
+      <StorageMax>2000</StorageMax>
+    </WarehouseStorage>
+  </ModOp>
+  <ModOp Type="merge" GUID="269867,269879,101292,101295,114628,114631,112661,112867,116004" Path="/Values/Warehouse">
+    <WarehouseStorage>
+      <StorageMax>2500</StorageMax>
+    </WarehouseStorage>
+  </ModOp>
+</ModOps>

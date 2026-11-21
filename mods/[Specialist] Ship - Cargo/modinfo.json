@@ -1,0 +1,15 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-specialist-ship-cargo",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Specialist] Ellis Ward, the Cargo Purser"
+  },
+  "Category": {
+    "English": "Specialists"
+  },
+  "Description": {
+    "English": "I wanted a long trade route to work with fewer ships. Ellis makes that possible by cutting travel and loading time, and you can assign the purser to just the route that needs help.\n\nAdds 60% sailing speed and 150% loading speed, removes cargo and damage slowdown and sets active purchase prices to 70%."
+  },
+  "CreatorName": "Vinzenz"
+}

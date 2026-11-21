@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" GUID="120244" Path="/Values/ResearchFeature/ItemCraftingConfig/*">
+    <MinimumWorkforceTime>60000</MinimumWorkforceTime>
+    <MaximumWorkforceTime>5000</MaximumWorkforceTime>
+  </ModOp>
+  <ModOp Type="merge" GUID="124839,124840,124841,124842,124843,124844,124846,124845,124849,124850,125340" Path="/Values/Godlike/CraftingConfig">
+    <MinimumWorkforceTime>60000</MinimumWorkforceTime>
+    <MaximumWorkforceTime>5000</MaximumWorkforceTime>
+  </ModOp>
+  <ModOp Type="merge" GUID="123401" Path="/Values/ProgressBalancing">
+    <AbsoluteLimit>50</AbsoluteLimit>
+  </ModOp>
+  <ModOp Type="merge" GUID="123401" Path="/Values/ProgressBalancing/Progress/Item">
+    <Value>50</Value>
+  </ModOp>
+  <ModOp Type="merge" GUID="123401" Path="/Values/ProgressBalancing/PostProgress">
+    <ValueIncrease>0</ValueIncrease>
+  </ModOp>
+  <ModOp Type="merge" GUID="128475" Path="/Values/ProgressBalancing">
+    <AbsoluteLimit>100</AbsoluteLimit>
+  </ModOp>
+  <ModOp Type="merge" GUID="128475" Path="/Values/ProgressBalancing/Progress/Item">
+    <Value>100</Value>
+  </ModOp>
+  <ModOp Type="merge" GUID="128475" Path="/Values/ProgressBalancing/PostProgress">
+    <ValueIncrease>0</ValueIncrease>
+  </ModOp>
+  <ModOp Type="merge" GUID="128952" Path="/Values/ProgressBalancing">
+    <AbsoluteLimit>200</AbsoluteLimit>
+  </ModOp>
+  <ModOp Type="merge" GUID="128952" Path="/Values/ProgressBalancing/Progress/Item">
+    <Value>200</Value>
+  </ModOp>
+  <ModOp Type="merge" GUID="128952" Path="/Values/ProgressBalancing/PostProgress">
+    <ValueIncrease>0</ValueIncrease>
+  </ModOp>
+  <ModOp Type="merge" GUID="128953" Path="/Values/ProgressBalancing">
+    <AbsoluteLimit>300</AbsoluteLimit>
+  </ModOp>
+  <ModOp Type="merge" GUID="128953" Path="/Values/ProgressBalancing/Progress/Item">
+    <Value>300</Value>
+  </ModOp>
+  <ModOp Type="merge" GUID="128953" Path="/Values/ProgressBalancing/PostProgress">
+    <ValueIncrease>0</ValueIncrease>
+  </ModOp>
+  <ModOp Type="merge" GUID="128954" Path="/Values/ProgressBalancing">
+    <AbsoluteLimit>500</AbsoluteLimit>
+  </ModOp>
+  <ModOp Type="merge" GUID="128954" Path="/Values/ProgressBalancing/Progress/Item">
+    <Value>500</Value>
+  </ModOp>
+  <ModOp Type="merge" GUID="128954" Path="/Values/ProgressBalancing/PostProgress">
+    <ValueIncrease>0</ValueIncrease>
+  </ModOp>
+  <ModOp Type="merge" GUID="128955" Path="/Values/ProgressBalancing">
+    <AbsoluteLimit>1000</AbsoluteLimit>
+  </ModOp>
+  <ModOp Type="merge" GUID="128955" Path="/Values/ProgressBalancing/Progress/Item">
+    <Value>1000</Value>
+  </ModOp>
+  <ModOp Type="merge" GUID="128955" Path="/Values/ProgressBalancing/PostProgress">
+    <ValueIncrease>0</ValueIncrease>
+  </ModOp>
+  <ModOp Type="merge" GUID="126888" Path="/Values/ProgressBalancing">
+    <AbsoluteLimit>1000</AbsoluteLimit>
+  </ModOp>
+  <ModOp Type="merge" GUID="126888" Path="/Values/ProgressBalancing/Progress/Item">
+    <Value>1000</Value>
+  </ModOp>
+  <ModOp Type="merge" GUID="126888" Path="/Values/ProgressBalancing/PostProgress">
+    <ValueIncrease>0</ValueIncrease>
+  </ModOp>
+  <ModOp Type="merge" GUID="129525" Path="/Values/ProgressBalancing">
+    <AbsoluteLimit>100</AbsoluteLimit>
+  </ModOp>
+  <ModOp Type="merge" GUID="129525" Path="/Values/ProgressBalancing/Progress/Item">
+    <Value>100</Value>
+  </ModOp>
+  <ModOp Type="merge" GUID="129525" Path="/Values/ProgressBalancing/PostProgress">
+    <ValueIncrease>0</ValueIncrease>
+  </ModOp>
+</ModOps>

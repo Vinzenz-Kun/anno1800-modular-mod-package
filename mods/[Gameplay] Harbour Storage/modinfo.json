@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-harbour-storage",
+  "ModName": {
+    "English": "[Gameplay] Depots and final trading posts"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Free up waterfront space by concentrating storage in fewer buildings. Each goods depot adds 2,000 tons to island storage. A fully upgraded trading post provides 2,500 tons."
+  }
+}

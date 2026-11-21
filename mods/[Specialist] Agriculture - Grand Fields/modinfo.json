@@ -1,0 +1,18 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-specialist-agriculture-grand-fields",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Specialist] Robin Vale, the Field Naturalist (Grand Fields)"
+  },
+  "Category": {
+    "English": "Specialists"
+  },
+  "Description": {
+    "English": "Sometimes the fields themselves are what I want to build. This edition of Robin lets me lay out a huge vineyard or a sweep of cattle pasture while keeping the shorter forest spacing and agricultural bonus goods.\n\n+500% field and pasture capacity. +100% productivity, -100% required forest/free area and -50% workforce on compatible buildings. Adds one ton of each of 66 agricultural goods per completed cycle."
+  },
+  "CreatorName": "Vinzenz",
+  "ModDependencies": [
+    "vinzenz-rules-free-fertility"
+  ]
+}

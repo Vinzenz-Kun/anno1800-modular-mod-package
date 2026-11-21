@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141000094</GUID>
+      <Text>Arctic residences and utility buildings</Text>
+    </Text>
+    <Text>
+      <GUID>2141000090</GUID>
+      <Text>Sila, Keeper of the Hearth</Text>
+    </Text>
+    <Text>
+      <GUID>2141000091</GUID>
+      <Text>Fulfils unlocked basic, luxury and enabled lifestyle needs, raises happiness by 25 and doubles residence capacity.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141000122</GUID>
+      <Text>Mara's reinforced hull</Text>
+    </Text>
+    <Text>
+      <GUID>2141000123</GUID>
+      <Text>Reinforced warship hull</Text>
+    </Text>
+    <Text>
+      <GUID>2141000120</GUID>
+      <Text>Captain Mara Voss, Fleet Gunnery Officer</Text>
+    </Text>
+    <Text>
+      <GUID>2141000121</GUID>
+      <Text>Active Healing keeps self-repair running under fire at +500% repair rate. Unwavering raises damage as hull strength falls, up to 1.6 times normal. Adds 1,000 hit points and a local +100% maximum hull bonus.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

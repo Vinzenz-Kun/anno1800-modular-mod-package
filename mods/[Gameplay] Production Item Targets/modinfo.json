@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-production-item-targets",
+  "ModName": {
+    "English": "[Gameplay] Orchard, chemical and telephone specialists"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Give more of your existing Trade Union items a job in these production chains. More existing Trade Union items can affect orchard recipes, chemical production and the Telephone Manufacturer."
+  }
+}

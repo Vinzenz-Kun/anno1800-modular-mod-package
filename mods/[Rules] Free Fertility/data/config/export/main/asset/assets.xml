@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <!-- Herbs Fertility -->
+  <ModOp Type="merge" GUID="5463" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Orchid Fertility -->
+  <ModOp Type="merge" GUID="5814" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Caribou Fertility -->
+  <ModOp Type="merge" GUID="112667" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Bear Fertility -->
+  <ModOp Type="merge" GUID="112673" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Seal Fertility -->
+  <ModOp Type="merge" GUID="112674" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Tree Fertility -->
+  <ModOp Type="merge" GUID="114703,114705" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Flax Fertility -->
+  <ModOp Type="merge" GUID="114448" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Teff Grass Fertility -->
+  <ModOp Type="merge" GUID="114450" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Indigo Fertility -->
+  <ModOp Type="merge" GUID="114451" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Spices Fertility -->
+  <ModOp Type="merge" GUID="114452" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Beewax Fertility -->
+  <ModOp Type="merge" GUID="114453" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Hibiscus Fertility -->
+  <ModOp Type="merge" GUID="114447" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Whale Fertility -->
+  <ModOp Type="merge" GUID="112666" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Seafood Fertility -->
+  <ModOp Type="merge" GUID="118729" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Grapes Fertility -->
+  <ModOp Type="merge" GUID="100655" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Niter Fertility -->
+  <ModOp Type="merge" GUID="101303,1010310" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Pearls Fertility -->
+  <ModOp Type="merge" GUID="1010339" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Corn Fertility -->
+  <ModOp Type="merge" GUID="101270" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Coffee Fertility -->
+  <ModOp Type="merge" GUID="101251" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Banana Fertility -->
+  <ModOp Type="merge" GUID="101263" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Potato Fertility -->
+  <ModOp Type="merge" GUID="1010265" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Paprika Fertility -->
+  <ModOp Type="merge" GUID="100654" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Grain Fertility -->
+  <ModOp Type="merge" GUID="1010262" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Hops Fertility -->
+  <ModOp Type="merge" GUID="1010264" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Sugar Cane Fertility -->
+  <ModOp Type="merge" GUID="1010329" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Caoutchouc Fertility -->
+  <ModOp Type="merge" GUID="1010333" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Cocoa Fertility -->
+  <ModOp Type="merge" GUID="1010332" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Cotton Fertility -->
+  <ModOp Type="merge" GUID="1010331" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Tobacco Fertility -->
+  <ModOp Type="merge" GUID="1010330" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+  <!-- Fur Fertility -->
+  <ModOp Type="merge" GUID="116034,1010558" Path="/Values">
+    <Factory7>
+      <NeededFertility>0</NeededFertility>
+    </Factory7>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="merge" GUID="1010343,1010344,1010345,1010346,1010347,101254,101255,112091,112652,114436,114437,114445,601445,601888,601889,601890,601882,601883,601884,601886,601891,24792,24793,5405,6086" Path="/Values/Residence7">
+    <MoveInMs>250</MoveInMs>
+    <MoveRandomMs>50</MoveRandomMs>
+  </ModOp>
+</ModOps>

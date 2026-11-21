@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141000044</GUID>
+      <Text>Coastal producers and buildings that use power</Text>
+    </Text>
+    <Text>
+      <GUID>2141000040</GUID>
+      <Text>Jack of All Seas</Text>
+    </Text>
+    <Text>
+      <GUID>2141000041</GUID>
+      <Text>Provides electricity to compatible buildings. Every completed production cycle adds one ton of each of the 191 goods across all four regions. Productivity +100%.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

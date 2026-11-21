@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141000064</GUID>
+      <Text>Old World residences and utility buildings</Text>
+    </Text>
+    <Text>
+      <GUID>2141000060</GUID>
+      <Text>Evelyn Reed, the Borough Steward</Text>
+    </Text>
+    <Text>
+      <GUID>2141000061</GUID>
+      <Text>Fulfils unlocked basic, luxury and enabled lifestyle needs, raises happiness by 25 and doubles residence capacity.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

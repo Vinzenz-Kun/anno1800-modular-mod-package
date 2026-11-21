@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141200000</GUID>
+      <Text>Refill island goods (+500 t)</Text>
+    </Text>
+    <Text>
+      <GUID>2141200090</GUID>
+      <Text>Deliver next specialist to selected ship</Text>
+    </Text>
+  </ModOp>
+</ModOps>

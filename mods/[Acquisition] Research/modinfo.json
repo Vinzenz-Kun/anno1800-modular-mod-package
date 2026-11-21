@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.1.0",
+  "ModID": "vinzenz-acquisition-research",
+  "ModName": {
+    "English": "[Acquisition] Specialist research"
+  },
+  "Description": {
+    "English": "I wanted my scholars to be able to find a specialist even when nobody had one for sale. This module adds specialist recipes to the Land of Lions Research Institute. Choose it on its own to keep the usual surprise of a trader\u2019s stock."
+  },
+  "LoadAfterIds": [
+    "*"
+  ]
+}

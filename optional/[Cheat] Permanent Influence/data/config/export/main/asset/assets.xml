@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModOps>
+  <ModOp Type="merge" GUID="41,600069,600070,42" Path="/Values/MetaInfluence">
+    <BaseInfluenceCapacity>1000000</BaseInfluenceCapacity>
+  </ModOp>
+  <ModOp Type="addNextSibling" GUID="130216">
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>2141200003</GUID>
+          <Name>Available Influence Reserve Timer</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionTimer</Template>
+            <Values>
+              <Condition />
+              <ConditionTimer>
+                <TimeLimit>1000</TimeLimit>
+              </ConditionTimer>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionExecuteScript</Template>
+                <Values>
+                  <Action />
+                  <ActionExecuteScript>
+                    <ScriptFileName>data/scripts/vinze_full_influence.lua</ScriptFileName>
+                  </ActionExecuteScript>
+                </Values>
+              </TriggerAction>
+            </Item>
+            <Item>
+              <TriggerAction>
+                <Template>ActionResetTrigger</Template>
+                <Values>
+                  <Action />
+                  <ActionResetTrigger />
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <AutoRegisterTrigger>1</AutoRegisterTrigger>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>

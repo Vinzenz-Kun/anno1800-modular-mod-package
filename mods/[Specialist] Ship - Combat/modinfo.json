@@ -1,0 +1,15 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-specialist-ship-combat",
+  "Version": "1.1.0",
+  "ModName": {
+    "English": "[Specialist] Captain Mara Voss, Fleet Gunnery Officer"
+  },
+  "Category": {
+    "English": "Specialists"
+  },
+  "Description": {
+    "English": "I wanted one warship to be able to carry a fight when the odds were against it. Assign Mara to the ship you want to strengthen, whether that is a lone escort or the flagship of a larger fleet.\n\nActive Healing keeps self-repair running under fire at +500% repair rate. Unwavering raises damage as hull strength falls, up to 1.6 times normal. Adds 1,000 hit points and a local +100% maximum hull bonus."
+  },
+  "CreatorName": "Vinzenz"
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="//Template[Name='HarborOfficeItem']/Properties" Condition="//Template[Name='HarborOfficeItem']/Properties[not(IndustrializableUpgrade)]">
+    <IndustrializableUpgrade />
+  </ModOp>
+  <ModOp Type="add" Path="//Template[Name='HarborOfficeItem']/Properties" Condition="//Template[Name='HarborOfficeItem']/Properties[not(InfluenceSourceUpgrade)]">
+    <InfluenceSourceUpgrade />
+  </ModOp>
+  <ModOp Type="add" Path="//Template[Name='HarborOfficeItem']/Properties" Condition="//Template[Name='HarborOfficeItem']/Properties[not(PopulationUpgrade)]">
+    <PopulationUpgrade />
+  </ModOp>
+  <ModOp Type="add" Path="//Template[Name='HarborOfficeItem']/Properties" Condition="//Template[Name='HarborOfficeItem']/Properties[not(ResidenceUpgrade)]">
+    <ResidenceUpgrade />
+  </ModOp>
+</ModOps>

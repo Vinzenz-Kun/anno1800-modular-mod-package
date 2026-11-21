@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-farm-storage",
+  "ModName": {
+    "English": "[Gameplay] Farm and orchard storage"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Give your carts a longer window to collect a harvest. Crop farms, livestock farms, Hacienda farm recipes and orchard recipes can hold four times their usual output before collection."
+  }
+}

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>2141000130</GUID>
+      <Text>Ellis Ward, the Cargo Purser</Text>
+    </Text>
+    <Text>
+      <GUID>2141000131</GUID>
+      <Text>Adds 60% sailing speed and 150% loading speed, removes cargo and damage slowdown and sets active purchase prices to 70%.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

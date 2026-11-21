@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-island-item-coverage",
+  "ModName": {
+    "English": "[Gameplay] Island-wide specialist buildings"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Choose this to make a single specialist effective across an entire island. Trade Unions, Town Halls, Harbourmaster\u2019s Offices, Arctic Lodges and the Docklands Main Wharf apply equipped items across their island."
+  }
+}

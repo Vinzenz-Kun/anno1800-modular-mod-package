@@ -1,0 +1,15 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-rules-free-fertility",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Rules] Free Fertility"
+  },
+  "Category": {
+    "English": "Agriculture"
+  },
+  "Description": {
+    "English": "I wanted the freedom to choose a farm island for its coastline and layout, even when its soil was wrong for a favourite crop. This rule makes that possible across the four standard regions. I kept it separate because choosing islands for their fertilities can be half the fun of settling them."
+  },
+  "CreatorName": "Vinzenz"
+}

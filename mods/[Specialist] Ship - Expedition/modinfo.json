@@ -1,0 +1,15 @@
+{
+  "Anno": 7,
+  "ModID": "vinzenz-specialist-ship-expedition",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Specialist] Dr Rowan Pike, Expedition Polymath"
+  },
+  "Category": {
+    "English": "Specialists"
+  },
+  "Description": {
+    "English": "I made Rowan for voyages where I wanted to see the next expedition event without having to assemble a whole crew for its skill checks. You decide which expedition gets that advantage when you choose its crew.\n\nAdds 100 morale, 100 points in all eight expedition disciplines and eleven character perks."
+  },
+  "CreatorName": "Vinzenz"
+}

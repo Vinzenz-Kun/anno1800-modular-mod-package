@@ -1,0 +1,14 @@
+{
+  "Anno": 7,
+  "Version": "1.0.0",
+  "ModID": "vinzenz-gameplay-tourism",
+  "ModName": {
+    "English": "[Gameplay] Island-wide tourist venues"
+  },
+  "Category": {
+    "English": "Buildings & Economy"
+  },
+  "Description": {
+    "English": "Choose hotel sites across the island and serve them through the bus network. Bus stops, food and drink venues and Iron Tower recipes reach across the island. Connected tourist needs receive their full distance multiplier."
+  }
+}

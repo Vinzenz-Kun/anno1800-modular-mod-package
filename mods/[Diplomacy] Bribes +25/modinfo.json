@@ -1,0 +1,17 @@
+{
+  "Anno": 7,
+  "ModID": "vinze_bribes_25",
+  "Version": "1.0.0",
+  "ModName": {
+    "English": "[Diplomacy] Paid Bribes (+25)"
+  },
+  "Category": {
+    "English": "Diplomacy Tools"
+  },
+  "Description": {
+    "English": "Spend coins to rebuild a relationship quickly. Each accepted gift earns 25 reputation with a rival or pirate."
+  },
+  "DeprecateIds": [
+    "vinzenz_malching_mercier_diplomacy"
+  ]
+}
