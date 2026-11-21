@@ -1,6 +1,6 @@
 # [Acquisition] Specialists at the traders
 
-I wanted to know which harbour to sail to when an island needed a particular specialist. This module sorts six traders’ stock by rarity from the first progression stage. You can use it on its own if you still want to earn each item by trading.
+I wanted to know which harbour to sail to when an island needed a particular specialist. This module sorts six traders' stock by rarity from the first progression stage. You can use it on its own if you still want to earn each item by trading.
 
 This is one module in the Anno 1800 Modular Specialists Bundle. With the full collection enabled, even supplying a city and balancing its budget can become optional. Choose the changes you want for your save.
 

@@ -14,4 +14,4 @@ Copy the `[Gameplay] Pollution Happiness` folder into your Anno 1800 `mods` dire
 
 ## Thanks and credits
 
-I’m grateful to seekmod222 for singling out pollution’s effect on happiness. Their work inspired me to make this one specific change an independent choice for players building industrial islands. You can visit the original mod here. [Pollution Happiness](https://www.nexusmods.com/anno1800/mods/259)
+I'm grateful to seekmod222 for singling out pollution's effect on happiness. Their work inspired me to make this one specific change an independent choice for players building industrial islands. You can visit the original mod here. [Pollution Happiness](https://www.nexusmods.com/anno1800/mods/259)

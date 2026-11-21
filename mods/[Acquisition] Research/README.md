@@ -1,6 +1,6 @@
 # [Acquisition] Specialist research
 
-I wanted my scholars to be able to find a specialist even when nobody had one for sale. This module adds specialist recipes to the Land of Lions Research Institute. Choose it on its own to keep the usual surprise of a trader’s stock.
+I wanted my scholars to be able to find a specialist even when nobody had one for sale. This module adds specialist recipes to the Land of Lions Research Institute. Choose it on its own to keep the usual surprise of a trader's stock.
 
 This is one module in the Anno 1800 Modular Specialists Bundle. With the full collection enabled, even supplying a city and balancing its budget can become optional. Choose the changes you want for your save.
 

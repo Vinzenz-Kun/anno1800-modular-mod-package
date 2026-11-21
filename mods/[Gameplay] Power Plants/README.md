@@ -14,4 +14,4 @@ Copy the `[Gameplay] Power Plants` folder into your Anno 1800 `mods` directory a
 
 ## Thanks and credits
 
-Thank you to pbart for bringing power distribution and on-site fuel storage together in one mod. I followed that idea when setting the road reach and reserve sizes here, including the power supply in the New World. Please visit pbart’s original work. [Power Plant Range and Storage Increase](https://www.nexusmods.com/anno1800/mods/18)
+Thank you to pbart for bringing power distribution and on-site fuel storage together in one mod. I followed that idea when setting the road reach and reserve sizes here, including the power supply in the New World. Please visit pbart's original work. [Power Plant Range and Storage Increase](https://www.nexusmods.com/anno1800/mods/18)

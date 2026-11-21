@@ -1,10 +1,10 @@
 # [Gameplay] Affordable Arctic crafting
 
-I wanted to try more of Old Nate’s inventions on a single trip to the Arctic. With this module, finding each ingredient is still part of the expedition, but a small haul can pay for several recipes.
+I wanted to try more of Old Nate's inventions on a single trip to the Arctic. With this module, finding each ingredient is still part of the expedition, but a small haul can pay for several recipes.
 
 This is one module in the Anno 1800 Modular Specialists Bundle. With the full collection enabled, even supplying a city and balancing its budget can become optional. Choose the changes you want for your save.
 
-Old Nate’s Arctic workshop charges one ton of each listed ingredient for each of its thirty standard recipes.
+Old Nate's Arctic workshop charges one ton of each listed ingredient for each of its thirty standard recipes.
 
 Bring the listed types of material to Old Nate in the Arctic and start the craft normally. Each recipe keeps its original ingredients, including Arctic Scrap. Requires The Passage.
 

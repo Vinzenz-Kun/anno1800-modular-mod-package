@@ -271,7 +271,7 @@ def goods_catalog(guids):
         category = int(field(g, "Product/ProductCategory"))
         category_name = field(category, "Standard/Name").removeprefix("Product Category ")
         groups[category_name].append(product_name(g))
-    return "\n".join(f"- **{category}** — " + ", ".join(sorted(names)) + "."
+    return "\n".join(f"- **{category}** - " + ", ".join(sorted(names)) + "."
                      for category, names in sorted(groups.items()))
 
 

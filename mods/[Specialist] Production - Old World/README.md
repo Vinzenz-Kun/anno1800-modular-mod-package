@@ -12,15 +12,15 @@ The catalogue includes physical island goods assigned to the region, used by its
 
 The original Old World specialist also supplied goods from other regions. Jack keeps its extra imports of Ceramics, Dried Meat, Finery, Fried Plantains, Goat Milk, Illuminated Script, Lanterns, Mud Bricks, Ponchos, Tortillas alongside today's regional catalogue.
 
-- **Air-Mail** — Arctic Reports, Local Mail, New World Reports, Overseas Mail, Regional Mail.
-- **Commercial Supply** — Fertiliser.
-- **Construction Material** — Advanced Weapons, Aluminium Profiles, Bricks, Helium, Mud Bricks, Reinforced Concrete, Steel Beams, Timber, Weapons, Windows.
-- **Drop Good** — Bombs, Care Packages, Pamphlets, Sea Mines, Water Drop.
-- **Happiness Good** — Beer, Clay Pipe, Gramophones, Hibiscus Tea, Ice Cream, Jewelry, Leather Boots, Penny Farthings, Pocket Watches, Rum, Schnapps, Tapestries.
-- **Intermediate Good** — Brass, Celluloid, Chassis, Cotton Fabric, Dynamite, Electric Cables, Ethanol, Felt, Filaments, Film Reel, Fire Extinguishers, Flour, Fuel, Glass, Gold, Goulash, Industrial Lubricant, Lacquer, Linen, Malt, Medicine, Police Equipment, Sails, Steam Motors, Steel, Sugar, Tallow, Wood Veneers.
-- **Resource** — Arctic Gas, Bauxite, Bear Fur, Beef, Camphor Wax, Caoutchouc, Cement, Cherry Wood, Cinnamon, Citrus, Clay, Coal, Coconut Oil, Copper, Cotton, Fish Oil, Furs, Gold Ore, Grain, Grapes, Herbs, Hibiscus Petals, Hops, Iron, Lobster, Nice Scrap, Paper, Pearls, Pigs, Potatoes, Quartz Sand, Red Peppers, Resin, Saltpeter, Sanga Cow, Scrap, Special Scrap, Spices, Wood, Wool, Zinc.
-- **Strategic Resource** — Oil.
-- **Supply Good** — Billiard Tables, Biscuits, Bombins, Bread, Canned Food, Ceramics, Champagne, Chewing Gum, Chocolate, Cigars, Coffee, Cognac, Dried Meat, Elevators, Fans, Finery, Fish, Fried Plantains, Fur Coats, Goat Milk, Hot Sauce, Illuminated Script, Jam, Lanterns, Lemonade, Light Bulbs, Mezcal, Perfumes, Ponchos, Sausages, Scooter, Seafood Stew, Sewing Machines, Shampoo, Soap, Soccer Balls, Souvenirs, Spectacles, Steam Carriages, Tailored Suits, Telephones, Tortillas, Toys, Typewriters, Violins, Work Clothes.
+- **Air-Mail** - Arctic Reports, Local Mail, New World Reports, Overseas Mail, Regional Mail.
+- **Commercial Supply** - Fertiliser.
+- **Construction Material** - Advanced Weapons, Aluminium Profiles, Bricks, Helium, Mud Bricks, Reinforced Concrete, Steel Beams, Timber, Weapons, Windows.
+- **Drop Good** - Bombs, Care Packages, Pamphlets, Sea Mines, Water Drop.
+- **Happiness Good** - Beer, Clay Pipe, Gramophones, Hibiscus Tea, Ice Cream, Jewelry, Leather Boots, Penny Farthings, Pocket Watches, Rum, Schnapps, Tapestries.
+- **Intermediate Good** - Brass, Celluloid, Chassis, Cotton Fabric, Dynamite, Electric Cables, Ethanol, Felt, Filaments, Film Reel, Fire Extinguishers, Flour, Fuel, Glass, Gold, Goulash, Industrial Lubricant, Lacquer, Linen, Malt, Medicine, Police Equipment, Sails, Steam Motors, Steel, Sugar, Tallow, Wood Veneers.
+- **Resource** - Arctic Gas, Bauxite, Bear Fur, Beef, Camphor Wax, Caoutchouc, Cement, Cherry Wood, Cinnamon, Citrus, Clay, Coal, Coconut Oil, Copper, Cotton, Fish Oil, Furs, Gold Ore, Grain, Grapes, Herbs, Hibiscus Petals, Hops, Iron, Lobster, Nice Scrap, Paper, Pearls, Pigs, Potatoes, Quartz Sand, Red Peppers, Resin, Saltpeter, Sanga Cow, Scrap, Special Scrap, Spices, Wood, Wool, Zinc.
+- **Strategic Resource** - Oil.
+- **Supply Good** - Billiard Tables, Biscuits, Bombins, Bread, Canned Food, Ceramics, Champagne, Chewing Gum, Chocolate, Cigars, Coffee, Cognac, Dried Meat, Elevators, Fans, Finery, Fish, Fried Plantains, Fur Coats, Goat Milk, Hot Sauce, Illuminated Script, Jam, Lanterns, Lemonade, Light Bulbs, Mezcal, Perfumes, Ponchos, Sausages, Scooter, Seafood Stew, Sewing Machines, Shampoo, Soap, Soccer Balls, Souvenirs, Spectacles, Steam Carriages, Tailored Suits, Telephones, Tortillas, Toys, Typewriters, Violins, Work Clothes.
 
 ## Availability
 

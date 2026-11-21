@@ -6,7 +6,7 @@ This is one module in the Anno 1800 Modular Specialists Bundle. With the full co
 
 Markets, public need providers, the Palace and Local Departments can serve distant neighbourhoods along connected roads.
 
-Public services reach full satisfaction along 2,048 road units and drop to zero at 2,049. The Palace begins with 2,048 street range and gains two units per wing. Local Departments use the Palace’s range. Normal staffing, road connections and palace policy conditions apply.
+Public services reach full satisfaction along 2,048 road units and drop to zero at 2,049. The Palace begins with 2,048 street range and gains two units per wing. Local Departments use the Palace's range. Normal staffing, road connections and palace policy conditions apply.
 
 ## Installation
 
@@ -14,4 +14,4 @@ Copy the `[Gameplay] Public Services` folder into your Anno 1800 `mods` director
 
 ## Thanks and credits
 
-Thank you to Alvaror for the work on public building distances and to jje1000 for exploring the Palace’s street range. I brought those ideas together so the same road layout can carry both services and palace policies. Please visit both original mods. [Public Buildings Distance Extended](https://www.nexusmods.com/anno1800/mods/141) · [Palace Increased Range](https://www.nexusmods.com/anno1800/mods/192)
+Thank you to Alvaror for the work on public building distances and to jje1000 for exploring the Palace's street range. I brought those ideas together so the same road layout can carry both services and palace policies. Please visit both original mods. [Public Buildings Distance Extended](https://www.nexusmods.com/anno1800/mods/141) - [Palace Increased Range](https://www.nexusmods.com/anno1800/mods/192)

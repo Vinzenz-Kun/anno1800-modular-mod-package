@@ -12,12 +12,12 @@ The catalogue includes physical island goods assigned to the region, used by its
 
 The earlier Arctic Lodge specialist also supplied goods from other regions. Jack keeps its extra imports of Advanced Weapons, Aluminium Profiles, Bombins, Bricks, Celluloid, Ceramics, Champagne, Cigars, Clay Pipe, Dried Meat, Ethanol, Finery, Fried Plantains, Fur Coats, Goat Milk, Hibiscus Tea, Illuminated Script, Jewelry, Lacquer, Lanterns, Leather Boots, Light Bulbs, Mud Bricks, Paper, Penny Farthings, Ponchos, Sausages, Seafood Stew, Sewing Machines, Soap, Spectacles, Steam Carriages, Tailored Suits, Tapestries, Tortillas, Weapons, Work Clothes alongside today's regional catalogue.
 
-- **Air-Mail** — Arctic Reports, Local Mail, Overseas Mail, Regional Mail.
-- **Construction Material** — Advanced Weapons, Aluminium Profiles, Bricks, Mud Bricks, Reinforced Concrete, Steel Beams, Timber, Weapons, Windows.
-- **Happiness Good** — Beer, Clay Pipe, Gramophones, Hibiscus Tea, Jewelry, Leather Boots, Penny Farthings, Pocket Watches, Rum, Schnapps, Tapestries.
-- **Intermediate Good** — Brass, Celluloid, Dynamite, Ethanol, Felt, Glass, Gold, Lacquer, Motor, Sails, Steam Motors, Steel, Sugar, Tallow.
-- **Resource** — Arctic Gas, Bear Fur, Caoutchouc, Caribou Meat, Cement, Coal, Coffee Beans, Furs, Gold Ore, Goose Feathers, Grapes, Huskies, Iron, Lost Expedition Scrap, Nice Scrap, Paper, Plantains, Red Peppers, Saltpeter, Scrap, Seal Skin, Special Scrap, Tobacco, Whale Oil, Wood, Zinc.
-- **Supply Good** — Bombins, Bread, Canned Food, Ceramics, Champagne, Chocolate, Cigars, Coffee, Dried Meat, Finery, Fish, Fried Plantains, Fur Coats, Goat Milk, Hot Sauce, Husky Sleds, Illuminated Script, Lanterns, Light Bulbs, Mezcal, Oil Lamps, Parkas, Pemmican, Ponchos, Sausages, Seafood Stew, Sewing Machines, Sleds, Sleeping Bags, Soap, Spectacles, Steam Carriages, Tailored Suits, Tortillas, Work Clothes.
+- **Air-Mail** - Arctic Reports, Local Mail, Overseas Mail, Regional Mail.
+- **Construction Material** - Advanced Weapons, Aluminium Profiles, Bricks, Mud Bricks, Reinforced Concrete, Steel Beams, Timber, Weapons, Windows.
+- **Happiness Good** - Beer, Clay Pipe, Gramophones, Hibiscus Tea, Jewelry, Leather Boots, Penny Farthings, Pocket Watches, Rum, Schnapps, Tapestries.
+- **Intermediate Good** - Brass, Celluloid, Dynamite, Ethanol, Felt, Glass, Gold, Lacquer, Motor, Sails, Steam Motors, Steel, Sugar, Tallow.
+- **Resource** - Arctic Gas, Bear Fur, Caoutchouc, Caribou Meat, Cement, Coal, Coffee Beans, Furs, Gold Ore, Goose Feathers, Grapes, Huskies, Iron, Lost Expedition Scrap, Nice Scrap, Paper, Plantains, Red Peppers, Saltpeter, Scrap, Seal Skin, Special Scrap, Tobacco, Whale Oil, Wood, Zinc.
+- **Supply Good** - Bombins, Bread, Canned Food, Ceramics, Champagne, Chocolate, Cigars, Coffee, Dried Meat, Finery, Fish, Fried Plantains, Fur Coats, Goat Milk, Hot Sauce, Husky Sleds, Illuminated Script, Lanterns, Light Bulbs, Mezcal, Oil Lamps, Parkas, Pemmican, Ponchos, Sausages, Seafood Stew, Sewing Machines, Sleds, Sleeping Bags, Soap, Spectacles, Steam Carriages, Tailored Suits, Tortillas, Work Clothes.
 
 ## Availability
 

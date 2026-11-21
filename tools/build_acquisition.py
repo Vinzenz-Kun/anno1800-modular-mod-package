@@ -209,7 +209,7 @@ def main():
              "MaxStackSize", 50)
     save("[Acquisition] Traders", "vinzenz-acquisition-traders", "Specialists at the traders",
          "I wanted to know which harbour to sail to when an island needed a particular specialist. "
-         "This module sorts six traders’ stock by rarity from the first progression stage. "
+         "This module sorts six traders' stock by rarity from the first progression stage. "
          "You can use it on its own if you still want to earn each item by trading.",
          "Sir Archibald Blake offers legendary items, Eli Bleakworth epic items and Madame Kahina rare items. "
          "Isabel Sarmento, Anne Harlow and Jean La Fortune share common and uncommon stock. "
@@ -226,7 +226,7 @@ def main():
     save("[Acquisition] Research", "vinzenz-acquisition-research", "Specialist research",
          "I wanted my scholars to be able to find a specialist even when nobody had one for sale. "
          "This module adds specialist recipes to the Land of Lions Research Institute. "
-         "Choose it on its own to keep the usual surprise of a trader’s stock.",
+         "Choose it on its own to keep the usual surprise of a trader's stock.",
          "Discover talents in the production, city and harbour fields. Lodge specialists use production and ship specialists use harbour. "
          "Common characters use automatic discovery or the low-tier talent pool. Research costs, institute unlocks and development apply. "
          "The regular University is a public service building.\n\n"
@@ -241,8 +241,8 @@ def main():
          "Copy this folder into Anno 1800's mods folder. Equipment-slot and duplicate-equipping rules still apply.\n\n"
          "## Thanks to Reallizer\n\n"
          "Reallizer showed me how much easier a warehouse is to use when identical items can share a stack. "
-         "I’m grateful for that idea. I kept the familiar limit of fifty and applied it to specialists, including "
-         "the new characters. Reallizer’s original is well worth a visit. "
+         "I'm grateful for that idea. I kept the familiar limit of fifty and applied it to specialists, including "
+         "the new characters. Reallizer's original is well worth a visit. "
          "[50 Max Stack Size](https://www.nexusmods.com/anno1800/mods/131).", stack)
     print("Vanilla trader entries:", {tier: len(items) for tier, items in offers.items()})
     print("New vanilla talent-pool entries:", sum(map(len, missing.values())))

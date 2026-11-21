@@ -14,4 +14,4 @@ Copy the `[Gameplay] Production Item Targets` folder into your Anno 1800 `mods` 
 
 ## Thanks and credits
 
-I’m especially grateful to BattleForte for spotting the gap between these production chains and the items that could reasonably help them. Their work inspired the extra assignments here, including orchard work for Horticulturalist Hermann. Please take a look at BattleForte’s original mod. [Orchard Chemicals and Telephone Production Boosted By Items](https://www.nexusmods.com/anno1800/mods/153)
+I'm especially grateful to BattleForte for spotting the gap between these production chains and the items that could reasonably help them. Their work inspired the extra assignments here, including orchard work for Horticulturalist Hermann. Please take a look at BattleForte's original mod. [Orchard Chemicals and Telephone Production Boosted By Items](https://www.nexusmods.com/anno1800/mods/153)

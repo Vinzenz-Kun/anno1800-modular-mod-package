@@ -10,13 +10,13 @@ Equip in a Trade Union. Provides electricity to compatible buildings. Every comp
 
 The catalogue includes physical island goods assigned to the region, used by its residents or used in local production and construction. Shared goods and imports can appear in several regions. Jack keeps supplying Leather Boots from the earlier Enbesa edition. This module lets the trading post store bonus tractor fuel. Tractor barns still receive fuel carts from an operating Fuel Station. Oil still uses the oil harbour's dedicated storage.
 
-- **Commercial Supply** — Fertiliser.
-- **Construction Material** — Mud Bricks, Wanza Timber.
-- **Happiness Good** — Clay Pipe, Hibiscus Tea, Leather Boots, Tapestries.
-- **Intermediate Good** — Cotton Fabric, Fuel, Glass, Linen, Ornate Candles, Spiced Flour.
-- **Resource** — Beeswax, Clay, Cotton, Goose Feathers, Grain, Herbs, Hibiscus Petals, Indigo Dye, Linseed, Lobster, Nice Scrap, Orchid, Paper, Salt, Sanga Cow, Scrap, Special Scrap, Spices, Teff, Tobacco, Wood.
-- **Strategic Resource** — Oil.
-- **Supply Good** — Canned Food, Ceramics, Dried Meat, Finery, Goat Milk, Hot Sauce, Illuminated Script, Jam, Lanterns, Ponchos, Seafood Stew, Sewing Machines, Soap, Spectacles.
+- **Commercial Supply** - Fertiliser.
+- **Construction Material** - Mud Bricks, Wanza Timber.
+- **Happiness Good** - Clay Pipe, Hibiscus Tea, Leather Boots, Tapestries.
+- **Intermediate Good** - Cotton Fabric, Fuel, Glass, Linen, Ornate Candles, Spiced Flour.
+- **Resource** - Beeswax, Clay, Cotton, Goose Feathers, Grain, Herbs, Hibiscus Petals, Indigo Dye, Linseed, Lobster, Nice Scrap, Orchid, Paper, Salt, Sanga Cow, Scrap, Special Scrap, Spices, Teff, Tobacco, Wood.
+- **Strategic Resource** - Oil.
+- **Supply Good** - Canned Food, Ceramics, Dried Meat, Finery, Goat Milk, Hot Sauce, Illuminated Script, Jam, Lanterns, Ponchos, Seafood Stew, Sewing Machines, Soap, Spectacles.
 
 ## Availability
 

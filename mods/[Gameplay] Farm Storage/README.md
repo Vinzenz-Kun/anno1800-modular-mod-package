@@ -6,7 +6,7 @@ This is one module in the Anno 1800 Modular Specialists Bundle. With the full co
 
 Crop farms, livestock farms, Hacienda farm recipes and orchard recipes can hold four times their usual output before collection.
 
-The multiplier is applied to each production building’s local output buffer. Check the output counter on the farm itself. Cart capacity and island-wide warehouse capacity are separate settings.
+The multiplier is applied to each production building's local output buffer. Check the output counter on the farm itself. Cart capacity and island-wide warehouse capacity are separate settings.
 
 ## Installation
 
@@ -14,4 +14,4 @@ Copy the `[Gameplay] Farm Storage` folder into your Anno 1800 `mods` directory a
 
 ## Thanks and credits
 
-I owe the idea of giving farms room to hold a harvest to thorhammerz. Their farm and plantation mod was my starting point for extending that breathing room to livestock, Hacienda farms and orchards. You can visit thorhammerz’s original work here. [Increased Local Storage on Farm and Plantation Buildings](https://www.nexusmods.com/anno1800/mods/41)
+I owe the idea of giving farms room to hold a harvest to thorhammerz. Their farm and plantation mod was my starting point for extending that breathing room to livestock, Hacienda farms and orchards. You can visit thorhammerz's original work here. [Increased Local Storage on Farm and Plantation Buildings](https://www.nexusmods.com/anno1800/mods/41)

@@ -4,9 +4,9 @@ I kept island-wide coverage as a separate choice because it changes the value of
 
 This is one module in the Anno 1800 Modular Specialists Bundle. With the full collection enabled, even supplying a city and balancing its budget can become optional. Choose the changes you want for your save.
 
-Trade Unions, Town Halls, Harbourmaster’s Offices, Arctic Lodges and the Docklands Main Wharf apply equipped items across their island.
+Trade Unions, Town Halls, Harbourmaster's Offices, Arctic Lodges and the Docklands Main Wharf apply equipped items across their island.
 
-Equip a specialist in a compatible socket. Every eligible target on that island receives the effect. This uses the game’s island scope, so terrain, roads and distance from the building do not limit the effect. Item-specific target restrictions still apply.
+Equip a specialist in a compatible socket. Every eligible target on that island receives the effect. This uses the game's island scope, so terrain, roads and distance from the building do not limit the effect. Item-specific target restrictions still apply.
 
 ## Installation
 

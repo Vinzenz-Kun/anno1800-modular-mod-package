@@ -1,15 +1,15 @@
 # Anno 1800 Modular Specialists Bundle
 
-I put this collection together for the days when I want to spend an evening building an island and decide for myself which parts of running it will be a challenge. With everything enabled, it plays like a powerful cheat mod. A single specialist can look after a whole island’s needs, and a warehouse refill can make entire production chains optional.
+I put this collection together for the days when I want to spend an evening building an island and decide for myself which parts of running it will be a challenge. With everything enabled, it plays like a powerful cheat mod. A single specialist can look after a whole island's needs, and a warehouse refill can make entire production chains optional.
 
-That’s why each change has its own folder. You can take just a cargo specialist and still earn every coin and produce every ton yourself. Or you can give your residents everything they need and spend your time laying out their city. Pick the parts that suit the save you want to play.
+That's why each change has its own folder. You can take just a cargo specialist and still earn every coin and produce every ton yourself. Or you can give your residents everything they need and spend your time laying out their city. Pick the parts that suit the save you want to play.
 
-Many of those choices started with other modders’ work. If you enjoy a feature here, I’d love for you to visit the people who first gave me the idea. Each relevant module’s README tells that story and links to the original. You can also find all the authors together in the [credits](CREDITS.md).
+Many of those choices started with other modders' work. If you enjoy a feature here, I'd love for you to visit the people who first gave me the idea. Each relevant module's README tells that story and links to the original. You can also find all the authors together in the [credits](CREDITS.md).
 
 ## Install
 
 1. Extract the ZIP to a temporary folder. For the standard setup, copy the **contents** of its `mods` folder into your Anno 1800 `mods` folder. For a smaller setup, copy just the individual module folders you want.
-2. Check the directory depth. A correct installation looks like `Anno 1800/mods/[Specialist] Ship - Cargo/modinfo.json`. If you installed the previous bundle, move its old hyphen-named module folders out of the game’s `mods` folder before copying their renamed replacements. Both versions use the same internal mod IDs.
+2. Check the directory depth. A correct installation looks like `Anno 1800/mods/[Specialist] Ship - Cargo/modinfo.json`. If you installed the previous bundle, move its old hyphen-named module folders out of the game's `mods` folder before copying their renamed replacements. Both versions use the same internal mod IDs.
 3. Open the game's mod browser, enable your selection and load your save. Regional content needs its corresponding DLC. The Research Institute requires Land of Lions. The keyboard shortcuts and automatic resource grants are for single-player on PC.
 4. To add a money or influence cheat, copy the desired module from `optional` into the same game `mods` folder. To use +5 bribes, disable `[Diplomacy] Bribes +25` and enable `[Diplomacy] Bribes +5`.
 
@@ -20,7 +20,7 @@ The standard setup contains 39 modules. It includes all 16 character modules, bo
 | Enabled modules | Where specialists appear |
 | --- | --- |
 | Both acquisition modules (standard) | Sorted traders and Research Institute discoveries |
-| `[Acquisition] Research` only | Institute discoveries and the characters’ normal regional traders or workshop |
+| `[Acquisition] Research` only | Institute discoveries and the characters' normal regional traders or workshop |
 | `[Acquisition] Traders` only | Sorted traders, with base-game research rules |
 | Neither | Each character's normal trader pools or workshop, described in its README |
 
@@ -35,18 +35,18 @@ The optional **[Gameplay] Regional Battle Cruiser Fleet** adds five battle cruis
 | `Production - Old World`, `Production - New World`, `Production - Enbesa` | Trade Union in the named region, including Cape Trelawney for the Old World | Each completed cycle adds one ton of **each** good in the regional catalogue. The Old World edition covers 149 goods, the New World 113 and Enbesa 49. They also double productivity and supply compatible electricity users. |
 | `Production - Arctic` | Arctic Lodge | Jack of All Lodges supplies heat and generates 99 goods per cycle, including all 76 bonuses from the earlier Lodge edition. |
 | `Production - Harbour` | Harbourmaster's Office | Jack of All Seas grants one ton of each of the 191 distinct goods across the four catalogues and supplies compatible electricity users. |
-| `Agriculture` | Trade Union or Arctic Lodge | The compact edition of Robin Vale removes the need for crop fields and animal pens. Its −400% internal modifier accounts for additive bonuses such as a tractor, leaving the effective requirement at zero. |
-| `Agriculture - Grand Fields` | Trade Union or Arctic Lodge | Robin’s landscape edition has the same production and goods bonuses and a +500% field and pasture modifier for large working estates. |
+| `Agriculture` | Trade Union or Arctic Lodge | The compact edition of Robin Vale removes the need for crop fields and animal pens. Its -400% internal modifier accounts for additive bonuses such as a tractor, leaving the effective requirement at zero. |
+| `Agriculture - Grand Fields` | Trade Union or Arctic Lodge | Robin's landscape edition has the same production and goods bonuses and a +500% field and pasture modifier for large working estates. |
 | `Needs - Old World`, `Needs - New World`, `Needs - Enbesa`, `Needs - Arctic`, `Needs - Harbour` | Town Hall, Arctic Lodge or Harbourmaster's Office | Reduce consumption by 100% for supported basic, luxury and lifestyle needs. Add happiness, housing capacity and incident protection. The Arctic version supplies heat. |
 | `Ship - Expedition`, `Ship - Combat`, `Ship - Cargo` | Ship, with a warship required for Combat | Expedition morale, skills and traits, combat performance, or cargo speed, loading and active purchase prices. |
 
 Needs unlock at their usual population thresholds. Enable the lifestyle needs you want to use. The Old World specialist covers tourists, scholars and skyscrapers. Island-wide effects require `[Gameplay] Island Item Coverage` and a compatible equipped item. Both farming editions depend on `[Rules] Free Fertility` to grow every supported crop regardless of island fertility.
 
-Each Jack's README lists its goods by category. The lists cover physical products used or produced in the region, including imports for residents, factories, construction and local workshops. The Old World edition also keeps every bonus from blejky’s original Jack. Oil and mail use their dedicated storage. Tractor barns receive fuel from working Fuel Stations.
+Each Jack's README lists its goods by category. The lists cover physical products used or produced in the region, including imports for residents, factories, construction and local workshops. The Old World edition also keeps every bonus from blejky's original Jack. Oil and mail use their dedicated storage. Tractor barns receive fuel from working Fuel Stations.
 
-Both farming editions grant +100% productivity, −100% required forest or free area, −50% workforce and one ton of each of 66 agricultural goods per completed cycle. Equip one edition per farm area. Grand Fields raises the normal field count sixfold. For a grain farm, 864 fields are both the placement limit and the target for full field utilisation. The module also increases animal pen placement range to 40 tiles while installed, including when Robin is unequipped.
+Both farming editions grant +100% productivity, -100% required forest or free area, -50% workforce and one ton of each of 66 agricultural goods per completed cycle. Equip one edition per farm area. Grand Fields raises the normal field count sixfold. For a grain farm, 864 fields are both the placement limit and the target for full field utilisation. The module also increases animal pen placement range to 40 tiles while installed, including when Robin is unequipped.
 
-Jack of All Ships adds ten specialist ship plans plus the standard ship of the line at shipyards covered by his Harbourmaster�s Office.
+Jack of All Ships adds ten specialist ship plans plus the standard ship of the line at shipyards covered by his Harbourmaster's Office.
 
 ## Buildings and economy
 
@@ -72,7 +72,7 @@ Each `[Gameplay]` folder can be selected independently.
 | `[Cheat] Island Refill` | Move the camera over your own island and press **Shift+F9** to add up to **500 t per available good**, limited by remaining storage. |
 | `[Cheat] Island Refill` | Select an owned ship and press **Shift+F10** to deliver the next available specialist. |
 | `[Cheat] Add Money` (optional) | Press **Shift+F11** to receive **1,000,000 coins**. |
-| `[Cheat] Permanent Money` (optional) | Refills to the game’s reported coin limit, depositing up to **1 billion coins per simulation second**. Uses 1 billion as the target when the game reports no positive finite limit. |
+| `[Cheat] Permanent Money` (optional) | Refills to the game's reported coin limit, depositing up to **1 billion coins per simulation second**. Uses 1 billion as the target when the game reports no positive finite limit. |
 | `[Cheat] Permanent Influence` (optional) | Targets **1,000,000 spendable influence**. Investments still cost influence and count toward their ordinary bonuses. The game has no single fixed maximum for every empire. |
 | `[Diplomacy] Bribes +25` or `[Diplomacy] Bribes +5` | Offer a **monetary gift** to a rival or pirate to earn the selected reputation gain at the normal price. |
 

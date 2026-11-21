@@ -8,4 +8,4 @@ Copy this folder into Anno 1800's mods folder. Equipment-slot and duplicate-equi
 
 ## Thanks to Reallizer
 
-Reallizer showed me how much easier a warehouse is to use when identical items can share a stack. I’m grateful for that idea. I kept the familiar limit of fifty and applied it to specialists, including the new characters. Reallizer’s original is well worth a visit. [50 Max Stack Size](https://www.nexusmods.com/anno1800/mods/131).
+Reallizer showed me how much easier a warehouse is to use when identical items can share a stack. I'm grateful for that idea. I kept the familiar limit of fifty and applied it to specialists, including the new characters. Reallizer's original is well worth a visit. [50 Max Stack Size](https://www.nexusmods.com/anno1800/mods/131).
